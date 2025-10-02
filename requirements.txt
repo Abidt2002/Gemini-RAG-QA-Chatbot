@@ -1,0 +1,17 @@
+# Core Web App
+streamlit==1.38.0
+pyngrok==7.2.0
+
+# Google Gemini API
+google-generativeai==0.5.2
+
+# RAG & Vector DB
+langchain==0.2.11
+langchain-community==0.2.10
+faiss-cpu==1.7.4
+sentence-transformers==3.0.1
+
+# Utilities
+tiktoken==0.7.0
+pypdf==4.2.0
+python-dotenv==1.0.1
